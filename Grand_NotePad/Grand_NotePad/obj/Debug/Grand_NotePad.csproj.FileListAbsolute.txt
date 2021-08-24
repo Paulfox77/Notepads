@@ -1,0 +1,18 @@
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.exe.config
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.exe
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.pdb
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.frmMyNotepad.resources
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.Properties.Resources.resources
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.exe
+C:\Users\Joseph\Documents\COURSE WORK\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.pdb
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.exe.config
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.exe
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.pdb
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.exe
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\bin\Debug\Grand_NotePad.pdb
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.frmMyNotepad.resources
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.Properties.Resources.resources
+C:\Users\Joseph\Documents\All My Notepad Projects\Grand_NotePad\Grand_NotePad\obj\Debug\Grand_NotePad.csproj.GenerateResource.Cache
